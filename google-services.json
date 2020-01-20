@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "528817056854",
+    "firebase_url": "https://remembranceday-1945.firebaseio.com",
+    "project_id": "remembranceday-1945",
+    "storage_bucket": "remembranceday-1945.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528817056854:android:bcbd2f327db0daecf15ff7",
+        "android_client_info": {
+          "package_name": "rememberance.day.on1945"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528817056854-7c768nk4o47rges96ekt61j1fd22np22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWopTR6wCO0pg-8QSGj48tyyPRHlpClxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528817056854-7c768nk4o47rges96ekt61j1fd22np22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
